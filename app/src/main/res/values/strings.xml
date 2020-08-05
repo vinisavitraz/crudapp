@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">CrudApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="menu_item_add_client">Add Contact</string>
+
+    <string name="detailcontact_title">Detail Contact</string>
+
+    <string name="detailcontact_fullname">Full Name</string>
+    <string name="detailcontact_age">Age</string>
+    <string name="detailcontact_phone">Phone</string>
+    <string name="detailcontact_cep">CEP</string>
+    <string name="detailcontact_street">Street</string>
+    <string name="detailcontact_number">Number</string>
+    <string name="detailcontact_city">City</string>
+    <string name="detailcontact_state">State</string>
+
+    <string name="detailcontact_save">Save</string>
+
 </resources>
